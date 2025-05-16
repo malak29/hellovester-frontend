@@ -1,7 +1,3 @@
-Here's a professional and comprehensive `README.md` file that you can use across all three repositories — `hellovester-frontend`, `hellovester-backend`, and `hellovester-data`. It explains the full HelloVester project and specifies the role of each repository, while keeping the content consistent.
-
----
-
 # HelloVester: AI-Powered Cryptocurrency Analytics Platform
 
 HelloVester is an AI-driven cryptocurrency analytics platform designed to simplify crypto data interpretation. It integrates **Retrieval-Augmented Generation (RAG)**, **temporal pattern recognition**, and **interactive flowchart generation** to empower users with actionable market insights and conceptual understanding of crypto systems.
